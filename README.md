@@ -1,4 +1,4 @@
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=800080f&height=180&section=header&text=Lincoln Ribeiro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35](https://ibb.co/pxmz5QZ)"/> 
+<img width=100% src="https://ibb.co/pxmz5QZ"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lincoln+Ribeiro;I'm+22+years+old;I'm+system+analyst+at+DelageRX;I+from+Brasil,+MG;I+study+computer+science+at+Anhembi+Morumbi;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
